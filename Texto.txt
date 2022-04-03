@@ -1,2 +1,3 @@
 Texto inicial criado pelo o desenvolvedor principal.
 Nova linnha de dados
+Linha inserida pelo proprietário do repositório.
