@@ -1,3 +1,4 @@
 Texto inicial criado pelo o desenvolvedor principal.
+Forçando conflito
 Nova linnha de dados
 Meu texto de uma branch
